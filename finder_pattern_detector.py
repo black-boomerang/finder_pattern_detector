@@ -1,3 +1,5 @@
+# По мотивам https://aishack.in/tutorials/scanning-qr-codes-1/
+
 import cv2
 import math
 import numpy as np
